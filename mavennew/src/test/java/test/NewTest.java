@@ -11,7 +11,7 @@ public class NewTest {
   
   @Test
   public void testTofail() {
-	  Assert.assertEquals(1, 1);
+	  Assert.assertEquals(1, 2);
   }
   
   
